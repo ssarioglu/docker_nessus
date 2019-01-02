@@ -1,5 +1,5 @@
 # Nessus Docker Image
-Nessus is the most popular vulnebarity scanner
+Nessus is the most popular vulnerability scanner
 
 Run Docker Container
 -----------------
